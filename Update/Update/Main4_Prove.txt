@@ -1,0 +1,8 @@
+ DISPLAY 2+5;
+x=9+5;
+DISPLAY (10*2+5)+40;
+y=6+9;
+ DISPLAY 6+5;
+ DISPLAY word;
+READ f ;
+Display f;
